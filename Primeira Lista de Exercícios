@@ -83,3 +83,50 @@ b) Há uma relação direta entre o número de conectivos binários em H e comp[
 ----------------------------------------------------------------------------//---------------------------------------------------------------------------------------
 
 Cápitulo 2
+
+1) a) true é um símbolo sintático e T é um símbolo semântico.
+b) false é um símbolo sintático e F é um símbolo semântico.
+
+2) Sintaxe é uma unificação da linguagem, diz respeito aos símbolos. Semântica é o significado ou
+interpretação dos objetos sintáticos.
+
+3) O conectivo ∨ é interpretado como "ou", o que significa que a sentença A ∨ B é verdadeira se pelo menos uma das proposições A ou B for verdadeira.
+Portanto, o uso do conectivo ∨ não é equivalente ao uso da palavra "ou" na linguagem natural, pois na linguagem natural, a palavra "ou" pode ter diferentes
+significados dependendo do contexto.
+O conectivo ∧ (e) é verdadeiro se ambas as proposições envolvidas forem verdadeiras.
+Já o conectivo ¬ (negação) é verdadeiro se a proposição envolvida for falsa.
+O conectivo → (implicação) é verdadeiro a menos que a proposição antecedente seja verdadeira e a consequente seja falsa.
+O conectivo ↔ (bicondicional) é verdadeiro se as proposições envolvidas tiverem o mesmo valor lógico (ambas verdadeiras ou ambas falsas).
+
+4) a) Pelo menos uma das proposições P e Q deve ser verdadeira para que I[H] = T.
+
+b) Se P é verdadeiro, então Q também é verdadeiro para que I[H] = T e I[P] = T.
+
+c) Se I[Q] = T, não podemos concluir nada diretamente sobre I[H].
+
+d) Se P é falso, então Q pode ser verdadeiro ou falso e I[H] = T e I[P] = F.
+
+e) Se P é verdadeiro, então Q deve ser falso para que I[Q] = F e I[P] = T.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
