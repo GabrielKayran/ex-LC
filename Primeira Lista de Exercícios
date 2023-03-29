@@ -1,1 +1,85 @@
+CAPÍTULO 1
+1) a) Não válida
+b) Válida
+c) Válida
+d) Não válida
+e) Válida
 
+2) a) Sim é possível pois todo simbolo verdade e proposicional é uma fórmula.
+b) O alfabeto da Lógica Proposicional possui cinco tipos de símbolos: proposições, conectivos lógicos (negação, conjunção, disjunção, condicional e bicondicional),
+parênteses, símbolo de negação forte (¬) e símbolo de negação fraca (-).
+c) Sim existe. 
+
+3) a) Comprimento: 11; Sub Fórmulas: {¬¬P, Q, ¬¬P ∨ Q, P → Q, (¬¬P ∨ Q) ↔ (P → Q), P10.000, ((¬¬P ∨ Q) ↔ (P → Q)) ∧ P10.000}
+b) Comprimento: 13; Sub Fórmulas: {Q → R, P → R, P → R → P → R, Q → R → P → R → P → R, (Q → R) → ((P → R) → (P → R)), P → ((Q → R) → ((P → R) → (P → R))),
+P → ((Q → R) → ((P → R) → (P → R)))}
+c) Comprimento: 9; Sub Fórmulas: {¬P, P → ¬P, (P → ¬P) ↔ ¬P, Q, ((P → ¬P) ↔ ¬P) ∨ Q}
+d) Comprimento: 5; Sub Fórmulas: {¬P, P → ¬P, ¬(P → ¬P)}
+
+4) a) (¬¬P ↔ ¬¬¬¬P∨Q→RP)∧P
+b) ¬P→Q∨R↔P∧Q↔¬¬R∨¬P
+c) P∨Q→P→¬Q
+
+5) a) P ∨ (¬Q → R) ↔ ¬R
+b) Q → (¬P ∧ Q
+c) (¬P ∨ Q) ↔ Q
+d) Não é possível obter
+
+6)a) ((¬¬P ∨ Q) ↔ (P → Q)) ∧ P10.000 em notação polonesa: ∧ ↔ ∨ ¬ ¬ P Q → R P
+
+P → ((Q → R) → ((P → R) → (P → R))) em notação polonesa: →P→→QR→→PRP10.000
+
+((P → ¬P) ↔ ¬P) ∨ Q em notação polonesa: ∨↔→P¬P¬PQ
+
+¬(P → ¬P) em notação polonesa: ¬→P¬PP
+
+((¬(¬P)) ↔ ((¬((¬(¬(P ∨ Q))) → R)) ∧ P)) em notação polonesa: ↔¬¬PP→¬¬¬∨PQR
+
+(¬P → (Q ∨ R)) ↔ ((P ∧ Q) ↔ (¬¬R ∨ ¬P)) em notação polonesa: ↔→¬P∨QR↔∧PQ∨¬¬R¬P
+
+((P ∨ Q) → (P → (¬Q))) em notação polonesa: →∨PQP¬Q
+
+b) Somente a terceira sequência de símbolos é uma fórmula da Lógica Proposicional que utiliza a notação polonesa e na notação
+convencional fica asssim: ¬P → (¬Q ∨ R) ∨ (P ∨ Q) ∨ (¬R ∨ ¬P).
+
+7)(a) Sim, é possível encontrar uma fórmula H da Lógica Proposicional escrita na notação convencional que corresponda a duas
+fórmulas diferentes escritas na notação polonesa. Isso ocorre porque a notação polonesa é uma maneira alternativa de representar 
+fórmulas, e diferentes sequências de símbolos podem representar a mesma fórmula quando escritas na notação convencional. Por exemplo,
+as fórmulas "P ∨ Q" e "∨ P Q" são equivalentes, mas escritas de maneira diferente na notação polonesa.
+
+(b) Não, não é possível encontrar uma fórmula H escrita na notação polonesa que corresponda a duas fórmulas diferentes da Lógica Proposicional
+escritas na notação convencional. Isso ocorre porque a notação polonesa é uma maneira unívoca de representar fórmulas, ou seja,
+uma sequência de símbolos na notação polonesa corresponde a uma única fórmula na notação convencional e vice-versa. Portanto,
+diferentes sequências de símbolos na notação convencional representam fórmulas diferentes, e essas fórmulas só podem ser representadas por uma única
+sequência de símbolos na notação polonesa.
+
+8) P ∨ ¬Q → R ↔ ¬R
+P Q¬ ∨ R → ¬R ↔
+
+Q → ¬P ∧ Q
+Q ¬P ∧ →
+
+ ¬P ∨ Q ↔ Q
+P¬ Q ∨ ↔ Q
+
+¬¬P → Q ↔ P ∧ P¬¬R
+P¬¬ Q → P P¬¬R ∧ ↔
+
+∨ → P Q ↔ R → ∨P Q¬S
+P Q∨ → R ∨P Q¬S ↔
+
+→↔ P Q∨ → P Q → ¬RR
+P Q∨ → P Q → ¬R ↔ R¬ P Q → →
+
+→ ¬P¬QR ∨ ∨P Q ∨ ¬R¬P
+P¬ QR ¬→ P Q ∨ ¬R¬P ∨
+
+↔→ ¬P ∨ QR ↔ ∧P Q ∨ ¬¬R¬P
+P¬ QR ∨ ↔ P Q ∧ ¬R¬P ∨
+
+10) a) A paridade de comp[H] é par.
+b) Há uma relação direta entre o número de conectivos binários em H e comp[H].
+
+----------------------------------------------------------------------------//---------------------------------------------------------------------------------------
+
+Cápitulo 2
