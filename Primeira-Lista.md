@@ -1,9 +1,10 @@
 CAPÍTULO 1
-1) a) Não válida
-b) Válida
-c) Válida
-d) Não válida
-e) Válida
+1.
+ a) Não válida
+ b) Válida
+ c) Válida
+ d) Não válida
+ e) Válida
 
 2) a) Sim é possível pois todo simbolo verdade e proposicional é uma fórmula.
 b) O alfabeto da Lógica Proposicional possui cinco tipos de símbolos: proposições, conectivos lógicos (negação, conjunção, disjunção, condicional e bicondicional),
@@ -107,6 +108,8 @@ c) Se I[Q] = T, não podemos concluir nada diretamente sobre I[H].
 d) Se P é falso, então Q pode ser verdadeiro ou falso e I[H] = T e I[P] = F.
 
 e) Se P é verdadeiro, então Q deve ser falso para que I[Q] = F e I[P] = T.
+
+5) a) 
  
 
 
